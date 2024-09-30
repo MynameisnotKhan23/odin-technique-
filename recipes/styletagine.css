@@ -1,0 +1,24 @@
+h1,
+h2 {
+    font-family: sans-serif, Verdana, 'Times New Roman';
+    text-align: center;
+    font-weight: bold;
+    color: rgba(244, 122, 0, 0.368);
+}
+.image {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+p {
+    text-align: center;
+    font-family: sans-serif, Verdana, 'Times New Roman';
+    font-weight: lighter;
+}
+ul,
+ol {
+    font-family: sans-serif, Verdana, 'Times New Roman';
+    font-weight: lighter;
+    text-align: center;
+    list-style-position: inside;
+}

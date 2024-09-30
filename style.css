@@ -1,0 +1,20 @@
+body {
+    font-family: Verdana, sans-serif, 'Times New Roman';
+}
+
+.african.food {
+    text-align: center;
+    color: rgba(0, 0, 245, 1);
+    font-size: 19px;
+}
+
+.image {
+text-align: center;
+height: auto;
+}
+ul {
+    list-style: square inside;
+    padding: auto;
+    color: rgba(0, 0, 245, 1);
+    text-align: center;
+} 
